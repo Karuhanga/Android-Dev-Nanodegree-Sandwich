@@ -1,5 +1,9 @@
 package com.udacity.sandwichclub.utils.ViewUtils;
 
+/**
+ * Borrowed from https://gist.githubusercontent.com/nesquena/ed58f34791da00da9751/raw/eb3a0b2be08c82c3836096839e65e73b76a0bf84/OnSwipeTouchListener.java
+ */
+
 import android.content.Context;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
